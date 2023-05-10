@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>My First Webpage</title>
+	</head>	
+
+	<body background="file:///C:/Users/Kakay/Downloads/1ccb2489899ae4255043dc10557fc7da.jpg">
+		<h1 style="font-size:18px;line-height:1.7;font-family:courier;margin-bottom:25px;background:#262626;color:#fff;padding:0 50px;">Empowerment Technology</h1>
+		<center><img src="file:///C:/Users/Kakay/Pictures/dskasadadas.jpg" height="400"/></center>
+		<h2 style="text-align: center;font-size:36px;line-height:1.7;font-family:courier;margin-bottom:25px;background:#262626;color:#fff;padding:0 50px;">Me, Myself, and I</h2>
+		<p style="text-indent: 50px;font-family:courier;margin: 35px;justify-content: center;">My name is Princess C. Dote. I was born on December 26, 2006, in Manila, Philippines. I have a brother, and he’s 14. My mother’s name is Charina C. Dote; she’s from Manila, and my father’s name is Alimar F. Dote; he’s from Gattaran, Cagayan. I had a happy childhood living with my parents and my brother. During weekends, we spend our days in malls and church.</p>
+		<p style="text-indent: 50px;font-family:courier;margin: 35px;justify-content: center;">I took my elementary education at Margarita Roxas de Ayala Elementary School located in Sta. Ana, Manila, and my secondary education at Ignacio Villamor High School located in Sta. Ana, Manila. During my junior high school days, I usually spent my free time in the canteen with my friends. Studying helps me acquire knowledge, which is essential for our survival. The study makes me knowledgeable. It enhances my creativity and thinking power and makes me broad-minded. These features help me make proper decisions, and that is a step towards the betterment of society.</p>
+		<p style="text-indent: 50px;font-family:courier;margin: 35px;justify-content: center;">There are a lot of things that I like and don’t like. I like having fun with my friends by eating, singing, joking around, and dancing together. I like ice cream; it keeps me calm, and it's perfect for this season. I love playing the guitar; it is my hobby alongside reading books, and it makes me feel happy to do it. I also like discovering new places where I can enjoy myself and hang out, especially when I feel sad or tired because of schoolwork or other problems I experience. Lastly, I love Taylor Swift; she has been my favorite artist and role model. I listen to every song she has ever released and jam with it. I have been humming and singing the lyrics of her songs everywhere. Taylor's song and herself inspire me to be myself, not just for the show. Contrary to my likes, my dislikes are leche flan, cheesy foods, and having no money.</p>
+		<p style="text-indent: 50px;font-family:courier;margin: 35px;justify-content: center;">As of now, I'm not yet fully decided on what course I should take in college, whether civil engineering, architecture, or cooking, because of the financial status of my family. I like to be an engineer because it gives me the opportunity to solve problems and design things that really matter—things that make the world a better place in which to live. I also want to be an architect because it gives me the freedom to use the creative part of my brain; it's an art that works with science to design places and buildings where people can live, interact, work, and play. I get a lot of opportunities to showcase my creativity and art while designing structures. Why chef? It's because food makes people happy that I want to discover new foods and cultures, and I also like to share Filipino delicacies with foreigners.</p>
+		<a href="https://www.youtube.com/watch?v=7Gbg6Z70J7E&ab_channel=TaylorSwiftVEVO" target=_blank title= "This takes you to Taylor Swift's song entitled You're on your own, kid"</a><h3 style="text-align: center;font-family:courier;margin-bottom:25px;">You're On Your Own, Kid- Taylor Swift</h3>
+	</body>
+
+</html>
+
